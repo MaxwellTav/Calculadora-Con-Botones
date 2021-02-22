@@ -1,0 +1,10 @@
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\bin\Debug\Calculadora con botones.exe.config
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\bin\Debug\Calculadora con botones.exe
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\bin\Debug\Calculadora con botones.pdb
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\Calculadora con botones.csprojAssemblyReference.cache
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\Calculadora_con_botones.Index.resources
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\Calculadora_con_botones.Properties.Resources.resources
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\Calculadora con botones.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\Calculadora con botones.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\Calculadora con botones.exe
+C:\Users\maxwe\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\Calculadora con botones.pdb
